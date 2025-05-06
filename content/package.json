@@ -1,0 +1,6 @@
+{
+  "name": ${{ values.name }},
+  "private": true,
+  "dependencies": {}
+}
+출처: https://wlsdn3004.tistory.com/82 [IT DevOps 기록:티스토리]
